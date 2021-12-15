@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["121", "131", "121"],
+  "key": {
+    "1": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "2": {
+      "item": "minecraft:stone"
+    },
+    "3": {
+      "item": "minecraft:redstone_lamp"
+    }
+  },
+  "result": {
+    "item": "minecraft:light",
+    "count": 4
+  }
+}
