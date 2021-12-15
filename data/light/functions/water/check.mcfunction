@@ -1,0 +1,1 @@
+execute at @e[type=arrow] if block ~ ~ ~ light[waterlogged=true] run function light:water/brake
