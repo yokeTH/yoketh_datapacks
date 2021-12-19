@@ -1,0 +1,1 @@
+execute if score @p PlayTimeTicks matches 72000.. run function playtime:Hrs
