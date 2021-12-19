@@ -1,2 +1,2 @@
-execute if score @p Playtime matches 72000.. run scoreboard players add @p PlayTimeHrs 1
-execute if score @p Playtime matches 72000.. run scoreboard players remove @p Playtime 72000
+scoreboard players add @a[scores={Playtime=72000..}] PlayTimeHrs 1
+scoreboard players remove @a[scores={Playtime=72000..}] Playtime 72000
