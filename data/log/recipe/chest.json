@@ -7,7 +7,7 @@
     }
   },
   "result": {
-    "item": "minecraft:chest",
+    "id": "minecraft:chest",
     "count": 4
   }
 }
